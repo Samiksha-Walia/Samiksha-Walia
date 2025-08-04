@@ -86,5 +86,6 @@ Eager to contribute to impactful AI projects and scalable systems.
 ---
 
 # 💻 LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/SamikshaWalia?theme=dark&ext=activity&border=0&radius=20)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SamikshaWalia?ext=heatmap)
+
 ---
