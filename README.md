@@ -48,11 +48,11 @@ Eager to contribute to impactful AI projects and scalable systems.
   - Real-time face & emotion recognition using OpenCV, CNN, and Haar cascades with TTS & video monitoring.
 - 🤖 **[Personalized AI Assistant (SEVAK.AI)](https://github.com/Samiksha-Walia/Sevak.AI.git)**
   - Voice-based desktop assistant using NLP (Cohere), STT, TTS, and emotion detection via PyQt5.
-- 💪 **[AI-Powered Push-Up Counter](#)**
+- 💪 **[AI-Powered Push-Up Counter](https://github.com/Samiksha-Walia/Push-O-Meter.git)**
   - Fitness tracker using OpenCV & MediaPipe with TTS feedback and visual cues.
-- ☁ **[Cloud-Based Learning Management System](#)**
+- ☁ **[Cloud-Based Learning Management System](https://github.com/Samiksha-Walia/LMS.git)**
   - Scalable LMS with Django, React.js & AWS, featuring dashboards and analytics.
-- 📦 **[Inventory Management System](#)**
+- 📦 **[Inventory Management System](https://github.com/Samiksha-Walia/Inventory_Management.git)**
   - Role-based Django web app for real-time product tracking and stock updates.
 
 ---
@@ -87,13 +87,4 @@ Eager to contribute to impactful AI projects and scalable systems.
 
 # 💻 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/SamikshaWalia?theme=dark&ext=activity&border=0&radius=20)
-
----
-
-<div align="center">
-  
-  ### 🐍 Watch My Contributions Get Eaten!
-  
-  ![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
 ---
