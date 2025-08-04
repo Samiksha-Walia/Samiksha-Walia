@@ -44,9 +44,9 @@ Eager to contribute to impactful AI projects and scalable systems.
 ---
 
 ## 📂 Featured Projects
-- 🛡 **[AI-Powered Smart Surveillance with Face and Emotion Recognition](#)**
+- 🛡 **[AI-Powered Smart Surveillance with Face and Emotion Recognition](https://github.com/Samiksha-Walia/Smart_CCTV.git)**
   - Real-time face & emotion recognition using OpenCV, CNN, and Haar cascades with TTS & video monitoring.
-- 🤖 **[Personalized AI Assistant (SEVAK.AI)](#)**
+- 🤖 **[Personalized AI Assistant (SEVAK.AI)](https://github.com/Samiksha-Walia/Sevak.AI.git)**
   - Voice-based desktop assistant using NLP (Cohere), STT, TTS, and emotion detection via PyQt5.
 - 💪 **[AI-Powered Push-Up Counter](#)**
   - Fitness tracker using OpenCV & MediaPipe with TTS feedback and visual cues.
@@ -75,7 +75,6 @@ Eager to contribute to impactful AI projects and scalable systems.
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiksha-walia)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samikshawalia2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Samiksha-Walia)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/SamikshaWalia)
 
 ---
