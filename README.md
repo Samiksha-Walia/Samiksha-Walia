@@ -7,7 +7,7 @@
 ## Hi there 👋 I'm Samiksha Walia
 
 🎓 **B.Tech CSE | Final Year Student @ Amity University Punjab** <br>
-💻 **AI/ML Enthusiast | Software Engineer | Full-Stack Developer** <br>
+💻 **AI/ML Enthusiast | Software Engineer | Full-Stack Developer | Patent Author** <br>
 🛠️ **Currently working on:** NLP, Agentic AI, LLMs, Computer Vision <br>
 
 ---
