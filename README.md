@@ -87,7 +87,8 @@ Eager to contribute to impactful AI projects and scalable systems.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha-Walia&theme=dark&hide_border=false&layout=compact)
 
 ## 🔥 GitHub Contribution Heatmap
-![GitHub Contribution Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samiksha-Walia&theme=github_dark)
+![GitHub contribution grid snake animation](https://github.com/Samiksha-Walia/Samiksha-Walia/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!-- ---
