@@ -1,7 +1,7 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Samiksha%20Walia&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Web%20Developer&descAlign=50&descAlignY=60&animation=fadeIn)
-  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Samiksha%20Walia&fontSize=90&fontAlign=50&fontAlignY=40&desc=AI%20%7C%20ML%20%7C%20Web%20Development%20%7C%20Patent%20Author&descAlign=50&descAlignY=60&animation=fadeIn)
+
 </div>
 
 ## Hi there 👋 I'm Samiksha Walia
