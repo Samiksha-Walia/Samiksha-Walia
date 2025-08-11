@@ -86,9 +86,12 @@ Eager to contribute to impactful AI projects and scalable systems.
 ![](https://nirzak-streak-stats.vercel.app/?user=Samiksha-Walia&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha-Walia&theme=dark&hide_border=false&layout=compact)
 
----
-<!-- 
-# 💻 LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/SamikshaWalia?ext=heatmap)-->
+## 🔥 GitHub Contribution Heatmap
+[![Samiksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samiksha-Walia&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+<!-- ---
+
+# 💻 LeetCode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/SamikshaWalia?ext=heatmap)
+
+----->
