@@ -75,7 +75,10 @@ Eager to contribute to impactful AI projects and scalable systems.
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samiksha-walia)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samikshawalia2003@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/SamikshaWalia)
+<!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/SamikshaWalia)-->
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samikshawalia2003)
+[![Devfolio](https://img.shields.io/badge/Devfolio-0A0A0A?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOCAYAAAAVVb0fAAAA...)](https://devfolio.co/@Samiksha6)
+
 
 ---
 
@@ -84,8 +87,8 @@ Eager to contribute to impactful AI projects and scalable systems.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha-Walia&theme=dark&hide_border=false&layout=compact)
 
 ---
-
+<!-- 
 # 💻 LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/SamikshaWalia?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SamikshaWalia?ext=heatmap)-->
 
 ---
