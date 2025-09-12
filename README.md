@@ -70,6 +70,7 @@ Eager to contribute to impactful AI projects and scalable systems.
 -  VentiCare Companion – Finalist, India–Israel Hackathon 2025 (Blink-to-speak, emotion recognition, ICU dashboards).
 - VAYU.AI – Bharatiya Antariksh Hackathon 2025 (Real-time AQI forecasting with rural SMS alerts).
 - ShopWise AI – Walmart Sparkathon 2025 (Voice-guided shopping, YOLOv8 scanning, budget tracking).
+- Project Drishti – Google Cloud Agentic AI Day 2025 (AI-powered situational awareness using Agentic AI).
 ---
 
 ## 🏅 Certifications
