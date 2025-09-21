@@ -95,9 +95,6 @@ Eager to contribute to impactful AI projects and scalable systems.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samiksha-Walia&theme=dark&hide_border=false&layout=compact)
 
 
-
-
-
 <!-- ---
 
 # 💻 LeetCode Stats
