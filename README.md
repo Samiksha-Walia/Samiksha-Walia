@@ -58,7 +58,7 @@ Eager to contribute to impactful AI projects and scalable systems.
 ---
 
 ## 📜 Publications & Patents
-- 📄 **Research**: *The Knowledge Nest: Design and Cloud Deployment of a Scalable LMS* (Accepted)  
+- 📄 **Research**: *The Knowledge Nest: Design and Cloud Deployment of a Scalable LMS* (Accepted in 5th International Conference on Internet of Things (IoT): Smart Innovation & Usage (IoT-SIU))  
 - 📄 **Research**: *From Black Box to Glass Box: Interpreting Heart Disease Predictions* (Under Review)  
 - 📝 **Patent**: *Natural Air Purification Indoor System* – 2023, Patent No. 202311052316 A  
 - 📝 **Patent**: *Eco-Friendly Automatic Streetlight Poles for Natural Air Purification* – 2023, Patent No. 202311052317 A  
