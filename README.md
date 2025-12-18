@@ -46,7 +46,7 @@ Currently exploring **LangChain, Agentic AI, RAG architectures, and autonomous A
 
 ### 🧠 Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### 🛠 Tools & Platforms
@@ -54,6 +54,36 @@ Currently exploring **LangChain, Agentic AI, RAG architectures, and autonomous A
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+
+---
+
+## 🔥 LLM • RAG • Agentic AI Stack
+
+### 🧠 Large Language Models & NLP
+![Transformers](https://img.shields.io/badge/HuggingFace%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Sentence Transformers](https://img.shields.io/badge/SentenceTransformers-FF9E0F?style=for-the-badge&logo=huggingface&logoColor=black)
+![BERTopic](https://img.shields.io/badge/BERTopic-0A66C2?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F9C?style=for-the-badge&logo=python&logoColor=white)
+
+### 🔗 Retrieval-Augmented Generation (RAG)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-6A0DAD?style=for-the-badge&logo=openai&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-5A29E4?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🧩 Agentic AI & Orchestration
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0F2027?style=for-the-badge&logo=openai&logoColor=white)
+![Tool Calling](https://img.shields.io/badge/Tool%20Calling-2C2C2C?style=for-the-badge&logo=openai&logoColor=white)
+
+### 📊 Evaluation, MLOps & Deployment
+![BLEU](https://img.shields.io/badge/BLEU-4CAF50?style=for-the-badge&logo=google&logoColor=white)
+![BERTScore](https://img.shields.io/badge/BERTScore-FF9800?style=for-the-badge&logo=google&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-00BCD4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Model Monitoring](https://img.shields.io/badge/Model%20Monitoring-607D8B?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
 
@@ -74,8 +104,8 @@ Currently exploring **LangChain, Agentic AI, RAG architectures, and autonomous A
 ---
 
 ## 📜 Publications & Patents
-- 📘 Multimodal AI: Integrating Vision, Text and Speech – Book Chapter (Under Review)
-- 📘 Neuromorphic Computing: Brain-Inspired Intelligence – Book Chapter (Under Review)
+- 📘 **Book Chapter**: Multimodal AI: Integrating Vision, Text and Speech (Under Review)
+- 📘 **Book Chapter**: Neuromorphic Computing: Brain-Inspired Intelligence (Under Review)
 - 📄 **Research**: *From Black Box to Glass Box: Interpreting Heart Disease Predictions* (Under Review) 
 - 📄 **Research**: *The Knowledge Nest: Design and Cloud Deployment of a Scalable LMS* (Accepted in 5th International Conference on Internet of Things (IoT): Smart Innovation & Usage (IoT-SIU))  
 - 📝 **Patent**: *Natural Air Purification Indoor System* – 2023, Patent No. 202311052316 A  
