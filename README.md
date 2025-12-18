@@ -7,20 +7,61 @@
 ## Hi there 👋 I'm Samiksha Walia
 
 🎓 **B.Tech CSE | Final Year Student @ Amity University Punjab** <br>
-💻 **AI/ML Enthusiast | Software Engineer | Full-Stack Developer | Patent Author** <br>
-🛠️ **Currently working on:** NLP, Agentic AI, LLMs, Computer Vision, React Native <br>
+💻 **AI Engineer | ML & NLP Specialist | Full-Stack Developer | Patent Author** <br>
+🛠️ **Currently working on:** LLMs, Agentic AI, RAG Pipelines, NLP Systems, Computer Vision, MLOps <br>
 
 ---
 
 ## 🧠 Summary
-Motivated **B.Tech (CSE)** final-year student passionate about **AI/ML** and **software development**.  
-Experienced in **real-time applications, deep learning, and full-stack development**.  
-Proven problem-solver with internship exposure and **50% academic scholarship**.  
-Eager to contribute to impactful AI projects and scalable systems.
+Final-year **B.Tech (CSE)** student specializing in **AI/ML** and **NLP-driven systems**.
+Experienced in building **intelligent, modular AI pipelines** using Transformers, embeddings, topic modeling, sentiment analysis, and LLM evaluation metrics.
+Strong foundation in **Python, deep learning, real-time systems, and full-stack development** with internship exposure and **50% academic scholarship**.
+Currently exploring **LangChain, Agentic AI, RAG architectures, and autonomous AI workflows**.
+
 
 ---
 
 ## 🧰 Languages & Tools
+
+### 🤖 AI / ML / NLP
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+### 🌐 Backend & Full-Stack
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🧠 Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23e16737.svg?style=for-the-badge&logo=mathworks&logoColor=white)
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,12 +85,14 @@ Eager to contribute to impactful AI projects and scalable systems.
 ---
 
 ## 📂 Featured Projects
-- 🛡 **[AI-Powered Smart Surveillance with Face and Emotion Recognition](https://github.com/Samiksha-Walia/Smart_CCTV.git)**
-  - Real-time face & emotion recognition using OpenCV, CNN, and Haar cascades with TTS & video monitoring.
+- 🛡 **[Project Drishti – AI-Powered Situational Awareness](https://github.com/Samiksha-Walia/Drishti.git)**
+  - YOLOv8-based real-time detection of crowd surges, smoke, and fire from CCTV/drone feeds.
+- 📔 **[Emotion-Aware Smart Diary]()**
+  - NLP-based diary using RoBERTa, BERTopic, sentiment analysis, and Django REST APIs.
+- 🖼 **[Advanced Image Captioning System]()**
+  - Optimized BLIP-based captioning pipeline evaluated with BLEU & BERTScore and parameter tuning.
 - 🤖 **[Personalized AI Assistant (SEVAK.AI)](https://github.com/Samiksha-Walia/Sevak.AI.git)**
   - Voice-based desktop assistant using NLP (Cohere), STT, TTS, and emotion detection via PyQt5.
-- 💪 **[AI-Powered Push-Up Counter](https://github.com/Samiksha-Walia/Push-O-Meter.git)**
-  - Fitness tracker using OpenCV & MediaPipe with TTS feedback and visual cues.
 - ☁ **[Cloud-Based Learning Management System](https://github.com/Samiksha-Walia/LMS.git)**
   - Scalable LMS with Django, React.js & AWS, featuring dashboards and analytics.
 - 📦 **[Inventory Management System](https://github.com/Samiksha-Walia/Inventory_Management.git)**
@@ -58,8 +101,10 @@ Eager to contribute to impactful AI projects and scalable systems.
 ---
 
 ## 📜 Publications & Patents
+- 📘 Multimodal AI: Integrating Vision, Text and Speech – Book Chapter (Under Review)
+- 📘 Neuromorphic Computing: Brain-Inspired Intelligence – Book Chapter (Under Review)
+- 📄 **Research**: *From Black Box to Glass Box: Interpreting Heart Disease Predictions* (Under Review) 
 - 📄 **Research**: *The Knowledge Nest: Design and Cloud Deployment of a Scalable LMS* (Accepted in 5th International Conference on Internet of Things (IoT): Smart Innovation & Usage (IoT-SIU))  
-- 📄 **Research**: *From Black Box to Glass Box: Interpreting Heart Disease Predictions* (Under Review)  
 - 📝 **Patent**: *Natural Air Purification Indoor System* – 2023, Patent No. 202311052316 A  
 - 📝 **Patent**: *Eco-Friendly Automatic Streetlight Poles for Natural Air Purification* – 2023, Patent No. 202311052317 A  
 
